@@ -1,0 +1,2 @@
+# ServiceFabricWcfStarterProject
+Start Project
